@@ -20,4 +20,4 @@ Excited to build more full-stack apps like this!
 🔗 Live Demo:
 👉 https://qr-code-project-0iyu.onrender.com
 
-💬 Would love your feedback and suggestions!
+💬 Would love your feedback and suggestions!.
