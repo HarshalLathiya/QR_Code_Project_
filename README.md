@@ -1,61 +1,72 @@
-QR Code Generator ⚡
 
-A full-stack web app to register, login, and generate QR codes with an admin panel to manage users and QR codes.
 
-Features ✅
+# 🚀 QR Code Generator
 
-📝 User Registration & Login with JWT authentication
+A modern full-stack web app to create, customize, and manage QR codes with user and admin features.
 
-📱 Generate QR Codes for any URL
+---
 
-💾 Download QR Codes as images
+## ✨ Key Features
 
-📊 User Dashboard for all generated QR codes
+### 👤 User
 
-🛠️ Admin Panel to manage users and QR codes
+* Secure login & registration (JWT + bcrypt)
+* Customizable QR styles, colors, and backgrounds
+* Responsive dashboard to manage QR codes
+* Download QR as PNG
+* Built-in contact form for admin support
 
-Tech Stack 🛠️
+### 👑 Admin
 
-Frontend: React.js + Tailwind CSS
+* Dashboard with real-time statistics
+* Manage users and QR codes
+* Role-based access control
+* QR generation trends & analytics
 
-Backend: Node.js + Express.js
+---
 
-Database: MySQL (Docker)
+## 🛠️ Tech Stack
 
-Auth: JWT
+**Frontend:** React, Vite, Styled Components, React Router, Axios
+**Backend:** Node.js, Express.js, JWT, bcryptjs, MySQL2
+**Database:** MySQL (Docker-based setup)
 
-Libraries: Axios, bcrypt, qrcode, cors
+---
 
-Setup 🚀
-Backend
-cd backend
-npm install
-node server.js
+## 📁 Project Overview
 
-Frontend
-cd frontend
-npm install
-npm start
+```
+client/   → React Frontend  
+server/   → Node.js + Express Backend  
+database/ → Docker & MySQL Setup
+```
 
-MySQL (Docker)
-docker-compose up -d
+---
 
-Usage 🎯
+## 🌐 Access Points
 
-Register → Login
+* Frontend: localhost:3000
+* Backend: localhost:5000
+---
 
-Enter URL → Click Generate
+## 🎨 Customization
 
-View & Download QR codes
+* 6 QR styles with custom colors & backgrounds
+* Supports URLs, text, contacts, Wi-Fi configs
+* Auto-save for generated codes
 
-Admin can manage users & QR codes
+---
 
-QR codes for text, phone, Wi-Fi, etc.
+## 🔧 Configuration
 
-Scan analytics
+Environment variables include database credentials, JWT secret, and port setup.
 
-Email notifications
+## 👨‍💻 Author
 
-Password reset & profile editing
+**Harshal Lathiya**
+GitHub: [@HarshalLathiya](https://github.com/HarshalLathiya)
 
-wfaz oblp wgey zpwf
+---
+
+⭐ **Star this repo if you like it!**
+🎉 *Create, Customize & Share with Ease* 🎉
