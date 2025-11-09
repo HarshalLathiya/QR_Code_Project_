@@ -14,7 +14,7 @@ A modern full-stack web app to create, customize, and manage QR codes with user 
 * Customizable QR styles, colors, and backgrounds
 * Responsive dashboard to manage QR codes
 * Download QR as PNG
-* Built-in contact form for admin support
+* Built-in contact form for admin support.
 
 ### 👑 Admin
 
