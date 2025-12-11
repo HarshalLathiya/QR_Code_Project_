@@ -94,9 +94,9 @@ const AdminDashboard = () => {
   const [activeTab, setActiveTab] = useState('stats')
 
   const tabs = [
-    { id: 'stats', label: '📊 Dashboard Stats', icon: '📊' },
-    { id: 'users', label: '👥 User Management', icon: '👥' },
-    { id: 'qrcodes', label: '🔗 QR Code Analytics', icon: '🔗' }
+    { id: 'stats', label: ' Dashboard Stats', icon: '📊' },
+    { id: 'users', label: ' User Management', icon: '👥' },
+    { id: 'qrcodes', label: ' QR Code Analytics', icon: '🔗' }
   ]
 
   // Redirect non-admin users
@@ -115,7 +115,7 @@ const AdminDashboard = () => {
   return (
     <AdminContainer>
       <AdminHeader>
-        <AdminTitle>Admin Dashboard 👑</AdminTitle>
+        <AdminTitle>Admin Dashboard </AdminTitle>
         <AdminSubtitle>
           Welcome, {user?.username}! Manage your QR Code Generator platform
         </AdminSubtitle>

@@ -93,7 +93,7 @@ const Dashboard = () => {
   return (
     <DashboardContainer>
       <WelcomeSection>
-        <WelcomeTitle>Welcome back, {user?.username}! 👋</WelcomeTitle>
+        <WelcomeTitle>Welcome back, {user?.username} ! </WelcomeTitle>
         <WelcomeSubtitle>
           Create beautiful QR codes for your websites, contacts, and more
         </WelcomeSubtitle>
