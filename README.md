@@ -61,7 +61,7 @@ database/ → Docker & MySQL Setup
 
 Environment variables include database credentials, JWT secret, and port setup.
 
-## 👨‍💻 Author
+## 👨‍💻 Author :
 
 **Harshal Lathiya**
 GitHub: [@HarshalLathiya](https://github.com/HarshalLathiya)
