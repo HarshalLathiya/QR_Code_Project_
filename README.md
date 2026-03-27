@@ -63,7 +63,7 @@ Environment variables include database credentials, JWT secret, and port setup.
 
 ## 👨‍💻 Author :
 
-**Harshal Lathiya**
+**Harshal Lathiya.**
 GitHub: [@HarshalLathiya](https://github.com/HarshalLathiya)
 
 ---
